@@ -1,0 +1,81 @@
+#activity{
+    padding-top: 20px;
+}
+.content1, .content2 ,.content3{
+    padding: 10px 20px; 
+    margin: 0px 10px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+.content-icon{
+    width: 25%;
+    float: left;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.content1{
+    background-color: #A5D649;
+}
+.content2{
+    background-color: #1CA39D;
+}
+.content3{
+    background-color: #818181;
+}
+#features{
+    background-color:#f3f3f3 ;
+}
+.service{
+    text-align: center;
+}
+.service img{
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+.service h6{
+    margin: 20px 0;
+}
+.service p{
+    color: #818181;
+}
+#gettouch{
+    background-image: url(../images/ddg-bg.jpg);
+    /* height: 500px;  */
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.contact{
+    color: #FFFFFF;
+    padding:100px 50px 140px;
+}
+.info{
+    width: 43%;
+    float: left;
+    
+}
+.info h4{
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+
+}
+.info h2{
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    margin-left: 20px;
+}
+
+.butt{
+    width: 20%;
+    float: left;
+    margin-right:60px;
+    margin-top: 47px;
+}
+.butt button{
+    background-color: #A5D649;
+    border: none;
+    color: #FFFFFF;
+    padding:4px 12px;
+}
